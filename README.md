@@ -13,9 +13,9 @@
   author      = {Amir Shokri and Ali Eslah},
   email       = {amirsh.nll@gmail.com, alieslah81@gmail.com}
   title       = {Iranian Banknote Recognition Using Image Processing Methods},
-  conference  = {},
+  conference  = {The eighth International Conference on Science and Technology of Electrical, Computer and Mechanical Engineering of Iran (UTCONF08)},
   year        = {2023},
-  url         = {},
+  url         = {https://www.en.symposia.ir/UTCONF08},
 }
 ```
 
